@@ -405,6 +405,16 @@ nav a.menu:hover {
 
 }
 
+nav a.menu-token {
+
+  text-decoration: none;
+
+  font-family: 'silkscreen';
+  font-size: 1.5rem;
+  color: #FFB000;
+
+}
+
 nav a.wallet-address {
 
   text-decoration: none;
